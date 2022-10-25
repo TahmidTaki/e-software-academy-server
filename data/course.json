@@ -1,0 +1,97 @@
+[
+    {
+      "id": "1",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Top Pick" },
+      "total_view": 488,
+      "title": "Computation and Complexity",
+      "instructor": {
+        "name": "Jimmy Dane",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "In this course you will learn about Formal Languages, Deterministic Finite Automata, N-DFA, Regular Expressions, Big-O notations, Take Quizes, Context-Free Languages and so on.",
+        "duration": "12 hr"
+    },
+    
+    {
+      "id": "2",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Requirements Engineering",
+      "instructor": "Dr. Azlin",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "In this course you will learn about Requirement Eliciation, Requirement Validation techniques, RE Frameworks, Re Contexts, Scenarios and Goals, Conceptual Modelling, Functional Modelling, Requirement Validation etc.",
+        "duration": "15 hr"
+    },
+    
+    {
+      "id": "3",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Enthusiast" },
+      "total_view": 488,
+      "title": "Techno Preneurship",
+      "instructor": "Jimmy Dane",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "This course covers Business Plan, BMC Design Strategy, Blue Ocean Strategy, Value Proposition Design to make you one step ahead into building your own tech business.",
+        "duration": "12 hr"
+    },
+    
+    {
+      "id": "4",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Must Watch" },
+      "total_view": 488,
+      "title": "Data Structure and Algorithms",
+      "instructor": "Dr. Liyana",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "The fundamental part of your software engineering journey. Here you will be exposed to Asymptotic Notations, Recursive/Non Recursive Algorithms, Dynamic Programming, Best-worst-avarage case scenario, Backtracking Algorithm, Balanced tree, Coin-Row Problem, Knapsack Problem, Brute Force Approaces.",
+        "duration": "36 hr"
+    },
+    
+    {
+      "id": "5",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Empirical Methods in Software Engineering",
+      "instructor": "Jimmy Dane",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "Topics include- Empirical Strategies, SE Measurement, Systematic Review, Mapping Study, Case Studies, Experiement Process, Experiment Scoping and design, Experiment Operation, Analysis and interpretations",
+        "duration": "12 hr"
+    },
+    
+    {
+      "id": "6",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Enterprise Need" },
+      "total_view": 488,
+      "title": "Database MySQL",
+      "instructor": "Dr Rawad",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "This course will introduce you to DataBase practices and you will learn about DB Environment, Relational Model, Relational Algebra, Data Definition, ERD, EERD, DB Normalization, Logical DataBase Design and Get Certified through Oracle Academy.",
+        "duration": "18 hr"
+    },
+    
+    {
+      "id": "7",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Beginner" },
+      "total_view": 488,
+      "title": "Mathematics for Computing",
+      "instructor": "Dr Akeem",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": "Here you will learn about Modular Arithmetic, Recursion, Recurrence Relation, Logic, Set, Functions, Tree, Graph etc.",
+        "duration": "26 hr"
+    }
+    
+  ]
