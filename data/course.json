@@ -3,7 +3,7 @@
       "id": "1",
       
       "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Top Pick" },
+      "rating": { "number": 5.0, "badge": "Top Pick" },
       "total_view": 488,
       "title": "Computation and Complexity",
       "instructor": {
@@ -33,7 +33,7 @@
       "id": "3",
       
       "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Enthusiast" },
+      "rating": { "number": 4.4, "badge": "Enthusiast" },
       "total_view": 488,
       "title": "Techno Preneurship",
       "instructor": "Jimmy Dane",
@@ -46,7 +46,7 @@
       "id": "4",
       
       "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Must Watch" },
+      "rating": { "number": 4.9, "badge": "Must Watch" },
       "total_view": 488,
       "title": "Data Structure and Algorithms",
       "instructor": "Dr. Liyana",
@@ -72,7 +72,7 @@
       "id": "6",
       
       "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Enterprise Need" },
+      "rating": { "number": 4.6, "badge": "Enterprise Need" },
       "total_view": 488,
       "title": "Database MySQL",
       "instructor": "Dr Rawad",
@@ -85,7 +85,7 @@
       "id": "7",
       
       "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Beginner" },
+      "rating": { "number": 4.2, "badge": "Beginner" },
       "total_view": 488,
       "title": "Mathematics for Computing",
       "instructor": "Dr Akeem",

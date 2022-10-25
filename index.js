@@ -16,3 +16,9 @@ const courses = require("./data/course.json");
 app.get("/courses", (req, res) => {
   res.send(courses);
 });
+
+app.get("/courses/:cid", (req, res) => {
+  const cid = req.params.cid;
+  const courseDetail = courses.find((course) => course.id === cid);
+  res.send(courseDetail);
+});
