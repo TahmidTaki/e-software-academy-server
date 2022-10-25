@@ -11,3 +11,8 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log("course server running on port: ", port);
 });
+
+const courses = require("./data/course.json");
+app.get("/courses", (req, res) => {
+  res.send(courses);
+});
