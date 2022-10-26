@@ -3,9 +3,9 @@
       "id": "1",
       
       "category_id": "01",
-      "rating": { "number": 5.0, "badge": "Top Pick" },
-      "total_view": 488,
-      "title": "Computation and Complexity",
+      "rating": { "number": 5.0, "badge": "Top" },
+      "total_view": 401,
+      "title": "Computation & Complexity",
       "instructor": {
         "name": "Jimmy Dane",
         "published_date": "2022-08-24 17:27:34",
@@ -21,7 +21,7 @@
       
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
+      "total_view": 889,
       "title": "Requirements Engineering",
       "instructor": "Dr. Azlin",
       "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
@@ -34,7 +34,7 @@
       
       "category_id": "01",
       "rating": { "number": 4.4, "badge": "Enthusiast" },
-      "total_view": 488,
+      "total_view": 112,
       "title": "Techno Preneurship",
       "instructor": "Jimmy Dane",
       "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
@@ -46,8 +46,8 @@
       "id": "4",
       
       "category_id": "01",
-      "rating": { "number": 4.9, "badge": "Must Watch" },
-      "total_view": 488,
+      "rating": { "number": 4.9, "badge": "Must" },
+      "total_view": 851,
       "title": "Data Structure and Algorithms",
       "instructor": "Dr. Liyana",
       "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
@@ -60,7 +60,7 @@
       
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
+      "total_view": 412,
       "title": "Empirical Methods in Software Engineering",
       "instructor": "Jimmy Dane",
       "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
@@ -73,7 +73,7 @@
       
       "category_id": "01",
       "rating": { "number": 4.6, "badge": "Enterprise Need" },
-      "total_view": 488,
+      "total_view": 312,
       "title": "Database MySQL",
       "instructor": "Dr Rawad",
       "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
@@ -86,7 +86,7 @@
       
       "category_id": "01",
       "rating": { "number": 4.2, "badge": "Beginner" },
-      "total_view": 488,
+      "total_view": 101,
       "title": "Mathematics for Computing",
       "instructor": "Dr Akeem",
       "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
