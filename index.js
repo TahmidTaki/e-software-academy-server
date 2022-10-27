@@ -22,3 +22,8 @@ app.get("/courses/:cid", (req, res) => {
   const courseDetail = courses.find((course) => course.id === cid);
   res.send(courseDetail);
 });
+app.get("/checkout/:cid", (req, res) => {
+  const cid = req.params.cid;
+  const courseDetail = courses.find((course) => course.id === cid);
+  res.send(courseDetail);
+});
