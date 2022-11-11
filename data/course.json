@@ -7,7 +7,7 @@
       "total_view": 401,
       "title": "Computation & Complexity",
       "instructor": "Dr. Zaliza",
-      "image_url": "https://i.ibb.co/vcRb4G4/pnp.jpg",
+      "image_url": "https://i.ibb.co/DMFrH9G/pnp.jpg",
       "details": "In this course you will learn about Formal Languages, Deterministic Finite Automata, N-DFA, Regular Expressions, Big-O notations, Take Quizes, Context-Free Languages and so on.",
         "duration": "12 hr"
     },
@@ -20,7 +20,7 @@
       "total_view": 889,
       "title": "Requirements Engineering",
       "instructor": "Dr. Azlin",
-      "image_url": "https://i.ibb.co/ZBbDNXS/requirements-engineering-4-graph1.jpg",
+      "image_url": "https://i.ibb.co/r2M0GRT/requirements-engineering-4-graph1.jpg",
       "details": "In this course you will learn about Requirement Eliciation, Requirement Validation techniques, RE Frameworks, Re Contexts, Scenarios and Goals, Conceptual Modelling, Functional Modelling, Requirement Validation etc.",
         "duration": "15 hr"
     },
@@ -33,7 +33,7 @@
       "total_view": 112,
       "title": "Techno Preneurship",
       "instructor": "Jimmy Dane",
-      "image_url": "https://i.ibb.co/m511vxR/1-pgr-Lrl-K1-JOiuosk-Ems-Gsjg.jpg",
+      "image_url": "https://i.ibb.co/b28qVC6/research-bulb.jpg",
       "details": "This course covers Business Plan, BMC Design Strategy, Blue Ocean Strategy, Value Proposition Design to make you one step ahead into building your own tech business.",
         "duration": "12 hr"
     },
@@ -46,7 +46,7 @@
       "total_view": 851,
       "title": "Data Structure and Algorithms",
       "instructor": "Dr. Liyana",
-      "image_url": "https://i.ibb.co/3yRDb5D/fa382e00-1bd2-11eb-992b-34d211d11cc2.png",
+      "image_url": "https://i.ibb.co/wzLxKp3/data-structure.png",
       "details": "The fundamental part of your software engineering journey. Here you will be exposed to Asymptotic Notations, Recursive/Non Recursive Algorithms, Dynamic Programming, Best-worst-avarage case scenario, Backtracking Algorithm, Balanced tree, Coin-Row Problem, Knapsack Problem, Brute Force Approaces.",
         "duration": "36 hr"
     },
@@ -59,7 +59,7 @@
       "total_view": 412,
       "title": "Empirical Methods in Software Engineering",
       "instructor": "Jimmy Dane",
-      "image_url": "https://i.ibb.co/c2pWN1R/research-bulb.jpg",
+      "image_url": "https://i.ibb.co/b28qVC6/research-bulb.jpg",
       "details": "Topics include- Empirical Strategies, SE Measurement, Systematic Review, Mapping Study, Case Studies, Experiement Process, Experiment Scoping and design, Experiment Operation, Analysis and interpretations",
         "duration": "12 hr"
     },
@@ -72,7 +72,7 @@
       "total_view": 312,
       "title": "Database MySQL",
       "instructor": "Dr Rawad",
-      "image_url": "https://i.ibb.co/LrW61Xs/MYSQL-Database-jpg.webp",
+      "image_url": "https://i.ibb.co/4WxBfpd/MYSQL-Database-jpg.webp",
       "details": "This course will introduce you to DataBase practices and you will learn about DB Environment, Relational Model, Relational Algebra, Data Definition, ERD, EERD, DB Normalization, Logical DataBase Design and Get Certified through Oracle Academy.",
         "duration": "18 hr"
     },
@@ -85,7 +85,7 @@
       "total_view": 101,
       "title": "Mathematics for Computing",
       "instructor": "Dr Akeem",
-      "image_url": "https://i.ibb.co/pQbDsXM/Mathematics-and-Computing.jpg",
+      "image_url": "https://i.ibb.co/tZ2rPPz/Mathematics-and-Computing.jpg",
       "details": "Here you will learn about Modular Arithmetic, Recursion, Recurrence Relation, Logic, Set, Functions, Tree, Graph etc.",
         "duration": "26 hr"
     }
